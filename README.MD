@@ -2,7 +2,9 @@
 # Configurar un proyecto con tableros ZenHub en bluejay.
 
 ## 1. Crear y configurar el repositorio.
+
 **1.1. Crear un repositorio en GitHub en la organizacion de la asignatura.**
+
 **1.2. En la rama main añadir un archivo `info.yml`.**
 
 info.yml:
@@ -37,11 +39,15 @@ project:
     > Por ejemplo, el grupo 54 del Laboratorio 2:
     > name = PSG2-2024-L2-54
 - Borrar los members que no se usen.
+
 **1.3. Confirmar que la cuenta de governifyauditor es miembro de la organizacion de la asignatura.**
 
 ## 2. Configurar la asignatura en infrastructura.
+
 **2.1. Acceder al assets <assets.bluejay.governify.io>.**
+
 **2.2. Crear una nueva clase dentro del scope de development.**
+
 - Accede al assets/private/scopes.json.
 - Añade esto en `development[]`.
 ```json
@@ -53,6 +59,7 @@ project:
             "projects": []
         },
 ```
+
 **2.3. Configurar la plantilla de TPA.**
 
 Esta plantilla se usará para crear todos los acuerdos de la asignatura.
