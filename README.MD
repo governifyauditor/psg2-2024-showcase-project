@@ -44,7 +44,7 @@ project:
 
 ## 2. Configurar la asignatura en infrastructura.
 
-**2.1. Acceder al assets <assets.bluejay.governify.io>.**
+**2.1. Acceder al assets [assets.bluejay.governify.io](assets.bluejay.governify.io).**
 
 **2.2. Crear una nueva clase dentro del scope de development.**
 
@@ -112,7 +112,7 @@ Esta plantilla se usará para crear todos los acuerdos de la asignatura.
 
 ## 3. Unir el proyecto a la asignatura
 
-- Accede a <join.bluejay.governify.io>.
+- Accede a [join.bluejay.governify.io](join.bluejay.governify.io).
 - Añade la **URL del repositorio** de GitHub.
 - Click en **CHECK**. Si ha dado error revisa la [sintaxis](https://www.yamllint.com/) del info.yml.
 - **Selecciona la clase** a la que te quieres unir (PSG2-2024).
@@ -125,7 +125,7 @@ Puedes segir la [guía de ZH2GH](https://docs.governify.io/development/services/
 
 ## 5. Crear el acuerdo y activar los calculos automaticos.
 
-- Accede a <ui.bluejay.governify.io>.
+- Accede a [ui.bluejay.governify.io](ui.bluejay.governify.io).
 - Selecciona la clase PSG2-2024.
 - En el panel derecho, donde esté el proyecto click en **Create TPA**.
 - Si la web no te ha redirigido a la vista del TPA, click en nuevo boton azul **TPA** al lado del nombre del proyecto.
